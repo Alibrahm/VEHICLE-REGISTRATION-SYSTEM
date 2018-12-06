@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  CSC221ASSIGNMENTVEHICLEREG.cpp
+c:\users\ali\source\repos\csc221assignmentvehiclereg\csc221assignmentvehiclereg\csc221assignmentvehiclereg.cpp(8): fatal error C1083: Cannot open include file: 'kra.h': No such file or directory
